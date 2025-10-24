@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aleo’s Tube Network — Backlink + Affiliate Tracker</title>
+  <meta name="description" content="Aleo’s Tube Network — Template tracker profesional untuk mengelola backlink, afiliasi, dan SEO lintas platform (Blog, YouTube, Affiliate)." />
+  <meta property="og:title" content="Aleo’s Tube Network — Backlink + Affiliate Tracker" />
+  <meta property="og:description" content="Integrating Blog, YouTube & Affiliate SEO Growth" />
+  <meta property="og:image" content="banner.png" />
+  <meta name="theme-color" content="#E53935" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #121212;
+      color: #fff;
+      text-align: center;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(90deg, #E53935, #FF7043);
+      padding: 20px 0;
+    }
+    header img {
+      width: 80%;
+      max-width: 900px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.15);
+    }
+    h1 {
+      font-size: 2.2em;
+      margin: 30px 0 10px;
+      color: #FF7043;
+    }
+    p {
+      max-width: 700px;
+      margin: 0 auto 20px;
+    }
+    .btn {
+      display: inline-block;
+      background: linear-gradient(90deg, #E53935, #FF7043);
+      color: #fff;
+      padding: 12px 25px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 600;
+      margin: 10px;
+      transition: transform 0.2s ease, box-shadow 0.3s ease;
+    }
+    .btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px rgba(255, 112, 67, 0.6);
+    }
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #aaa;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+    .links a {
+      color: #FF7043;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    .links a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="Aleo's_Tube_Network_Banner.png" alt="Aleo’s Tube Network Banner" />
+  </header>
+
+  <main>
+    <h1>🔥 Aleo’s Tube Network</h1>
+    <p>Backlink + Affiliate Tracker v1.0<br>
+       Integrating Blog, YouTube & Affiliate SEO Growth</p>
+
+    <a class="btn" href="https://docs.google.com/spreadsheets/d/1-EXAMPLE-TEMPLATE-ID/edit?usp=sharing" target="_blank">📊 Buka Template Google Sheets</a>
+    <a class="btn" href="https://github.com/aleostube/backlink-tracker" target="_blank">💾 Kunjungi GitHub Repo</a>
+
+    <section>
+      <h2>🌐 Social & Affiliate Links</h2>
+      <div class="links">
+        <a href="https://www.youtube.com/@Daily_vlog_anak_rantau" target="_blank">🎥 YouTube</a> |
+        <a href="https://web.facebook.com/Aleostube/" target="_blank">📘 Facebook</a> |
+        <a href="https://x.com/aleostube" target="_blank">🐦 X (Twitter)</a> |
+        <a href="https://id.pinterest.com/aleostube" target="_blank">📌 Pinterest</a> |
+        <a href="https://s.shopee.co.id/2qMAn4T7k8" target="_blank">🛒 Shopee</a> |
+        <a href="https://www.digistore24-app.com/app/en/affiliate/Aleostube" target="_blank">💰 Digistore24</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Aleo’s Tube Network. Licensed under the <a href="LICENSE" target="_blank">MIT License</a>.</p>
+  </footer>
+</body>
+</html>
